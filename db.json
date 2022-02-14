@@ -1,5 +1,5 @@
 {
-    "patient": [
+    "users": [
         {
             "id": 1,
             "profileImage": "assets/images/person_3.jpg",
@@ -7,7 +7,7 @@
             "age": 30,
             "phoneNumber": "+234 (0) 8122322",
             "address": "3517 W.Gray St.Utica",
-            "url" : "http://localhost:4200/dashboard/patient-details/23"
+            "url": "http://localhost:4200/dashboard/patient-details/23"
         },
         {
             "id": 2,
@@ -16,7 +16,7 @@
             "age": 30,
             "phoneNumber": "+234 (0) 8122322",
             "address": "3517 W.Gray St.Utica",
-            "url" : "http://localhost:4200/dashboard/patient-details/23"
+            "url": "http://localhost:4200/dashboard/patient-details/23"
         },
         {
             "id": 3,
@@ -25,7 +25,7 @@
             "age": 30,
             "phoneNumber": "+234 (0) Connect",
             "address": "3517 W.Gray St.Utica",
-            "url" : "http://localhost:4200/dashboard/patient-details/23"
+            "url": "http://localhost:4200/dashboard/patient-details/23"
         },
         {
             "id": 4,
@@ -34,31 +34,9 @@
             "age": 30,
             "phoneNumber": "+234 (0) 8122322",
             "address": "3517 W.Gray St.Utica"
-        },
-        {
-            "id": 5,
-            "profileImage": "assets/images/person_2.jpg",
-            "name": "Wari Joi",
-            "age": 30,
-            "phoneNumber": "+234 (0) 8122322",
-            "address": "3517 W.Gray St.Utica"
-        },
-        {
-            "id": 6,
-            "profileImage": "assets/images/person_1.jpg",
-            "name": "Perton Lorem",
-            "age": 30,
-            "phoneNumber": "+234 (0) 8122322",
-            "address": "3517 W.Gray St.Utica"
-        },
-        {
-            "id": 7,
-            "profileImage": "assets/images/person_4.jpg",
-            "name": "Instact Micheal",
-            "age": 30,
-            "phoneNumber": "+234 (0) 8122322",
-            "address": "3517 W.Gray St.Utica"
-        },
+        }
+    ],
+    "company": [
         {
             "id": 8,
             "profileImage": "assets/images/person_4.jpg",
